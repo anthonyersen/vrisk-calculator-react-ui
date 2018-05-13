@@ -1,0 +1,18 @@
+{
+  "extends": "airbnb",
+  "parser": "babel-eslint",
+  "env": {
+    "browser": true
+  },
+  "rules":{
+    "arrow-body-style": "off",
+    "imports/no-named-as-default": "off",
+    "max-len": "off",
+    "no-debugger": "warn",
+    "no-return-assign": "off",
+    "prefer-destructuring": "off",
+    "react/forbid-prop-types": "off",
+    "react/prefer-stateless-function": "off",
+    "react/require-default-props": "off"
+  }
+}
