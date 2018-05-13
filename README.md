@@ -2,7 +2,7 @@
 This project is created with [create-react-app](https://github.com/facebook/create-react-app) and developed using React.
 
 ### Installation
-The API is on a different project. Make sure to run it first. API will be accessible at http://localhost:56430/.
+The API is on a [different project](https://github.com/anthonyersen/VRisk.Calculator). Make sure to run it first. API will be accessible at http://localhost:56430/.
 
 Install dependencies and start the dev server
 
