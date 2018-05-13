@@ -1,13 +1,21 @@
-# VRisk Calculator API
-This project is developed using .NET Core Web API. The UI is at [vrisk-calculator-react-ui](https://github.com/anthonyersen/vrisk-calculator-react-ui)
+# NPV Calculator UI with React
+This project is created with [create-react-app](https://github.com/facebook/create-react-app) and developed using React.
 
 ### Installation
-From the application root run:
+The API is on a [different project](https://github.com/anthonyersen/VRisk.Calculator). Make sure to run it first. API will be accessible at http://localhost:56430/.
 
+Install dependencies and start the dev server
+
+with yarn
 ```sh
-$ cd VRisk.Calculator.Api
-$ dotnet run
+$ yarn install
+$ yarn start
 ```
-or set the VRisk.Calculator.Api as startup project then launch from Visual Studio
 
-After which, the API can be accessed at http://localhost:56430/.
+with npm:
+```sh
+$ npm install
+$ npm start
+```
+
+After which, the UI can be accessed at http://localhost:3000/.
