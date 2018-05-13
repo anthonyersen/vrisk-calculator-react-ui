@@ -7,6 +7,7 @@
   "rules":{
     "arrow-body-style": "off",
     "imports/no-named-as-default": "off",
+    "linebreak-style": "off",
     "max-len": "off",
     "no-debugger": "warn",
     "no-return-assign": "off",
